@@ -5,8 +5,8 @@ The company currently has a connections team which connect the subscribers FTTP(
 
 - Engineer:
 
-Please enter your name: Free text field – alpha characters only
-Enter installation ref – Numeric field
+  - Please enter your name: Free text field – alpha characters only
+  - Enter installation ref – Numeric field
 - Customer:
 
   - Did the engineer arrive on time? Yes / No (1 = Yes 0 = No)
