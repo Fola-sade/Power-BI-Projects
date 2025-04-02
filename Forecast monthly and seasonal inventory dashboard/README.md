@@ -2,6 +2,8 @@
 
 Before diving into the technical aspects, here’s a brief data story. I worked with a sales dataset containing 1,366,863 records alongside a Product lookup table that provided additional details about agricultural products from an Acumatica ERP system. To ensure data quality, I performed data cleansing on the Product Table, removing null and empty cells. Out of 10,237 records, I retained 9,763 after cleaning. This step was necessary because the dataset 
 wouldn’t load properly without resolving these errors. However, I did not remove any null or empty observations from the sales dataset, as these represented actual sales records. Maintaining consistency in the data was crucial for accurate analysis.
+## Objective: 
+Forecast monthly and seasonal inventory levels and sales at both the SRID and Price Class levels using the provided datasets. Present your findings in a Power BI dashboard that’s easy to use for sales reps and purchasing managers.
 ## Challenges Before Analysis
 One major challenge was data ambiguity, which could result in inconsistencies, such as having identical values for both forecasted and actual revenue. This required careful handling to ensure the integrity and reliability of the analysis.
 
