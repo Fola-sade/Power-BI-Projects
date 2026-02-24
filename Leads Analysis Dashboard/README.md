@@ -42,8 +42,9 @@ submissions.
 When filtering by Nigerian nationality, Computer Science emerges as the most frequently 
 selected field of interest. This trend underscores the growing demand for tech-related 
 programs among Nigerian students, a valuable insight for tailoring our guidance, 
-content, and services. 
-RECOMMENDATIONS 
+content, and services.
+ 
+- RECOMMENDATIONS 
 My recommendations will be harmonizing data formats across sources and introducing required 
 field(using asterisks) for key data points during submission to reduce missing or incomplete 
 entries.
